@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">膜法题库</string>
+    <string name="timeView">timeView</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="firstChoice">A</string>
+    <string name="secondChoice">B</string>
+    <string name="thirdChoice">C</string>
+    <string name="fourthChoice">D</string>
+</resources>
